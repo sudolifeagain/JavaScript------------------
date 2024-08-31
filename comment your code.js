@@ -1,4 +1,4 @@
-<script>
+
 
 /* this is a
 d
@@ -13,5 +13,3 @@ multi-line comment */
 undefined, null, boolean, string, symbol, number, and object
 */
 
-
-</script>

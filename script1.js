@@ -1,4 +1,4 @@
-<script>
+
     
     var number = 5; // in-line comment
     console.log(number)
@@ -24,9 +24,7 @@ b = a;
 console.log(a)
 
 
-</script>   
 
-<script>
     // Initialize these three variales
 var a = 5;
 var b = 10;
@@ -40,4 +38,3 @@ b = b + 5;
 c = c + "String!"
 
 
-</script>
